@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/arussell36/templateEngine#readme",
   "dependencies": {
+    "inquirer": "^7.0.0",
     "jest": "^24.9.0"
   }
 }
